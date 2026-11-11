@@ -56,7 +56,7 @@ Formulário: campos para adicionar novas despesas.
 Histórico de despesas: tabela ou lista com os registros realizados.
 Gerenciamento: opções para editar e excluir despesas.
 Resumo por categorias: visualização dos gastos separados por categoria.
-📁Estrutura de Pastas
+Estrutura de Pastas
 
 A organização inicial do projeto será:
 
@@ -79,5 +79,9 @@ Se preferir, utilize a extensão Live Server do Visual Studio Code.
 Comece a cadastrar e gerenciar suas despesas.
 Clonando o repositório
 bash
+
+Integrantes
+Miguel N. de Lima
+Sérgio Estrela 
 git clone https://github.com/Miguel-lima22/Miguel-lima22.git
 
